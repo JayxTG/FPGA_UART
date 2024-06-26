@@ -4,9 +4,9 @@ This repository contains the implementation of a Universal Asynchronous Receiver
 
 ## 👥 Group Members
 
-- 210169L Fernando W.W.R.N.S.
-- 210179R Gammune D.J.T.
-- 210218M Herath H.M.S.I.
+- Fernando W.W.R.N.S.
+- Gammune D.J.T.
+- Herath H.M.S.I.
 
 Special thanks to Lohan, Charels, and Kaveendra for their assistance in transferring and verifying the data.
 
