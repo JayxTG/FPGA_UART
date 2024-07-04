@@ -79,7 +79,7 @@ The project is divided into four distinct phases:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/UART-FPGA-Implementation.git
+git clone https://github.com/JayxTG/UART-FPGA-Implementation.git
 ```
 
 2. **RTL Implementation:**
